@@ -1,0 +1,12 @@
+baseURL = 'https://sdarive.github.io/ssd-prod/'
+languageCode = 'en-us'
+title = 'Siva Darivemula - Principal Product Manager & AI Strategy Leader'
+
+[params]
+  description = "Principal Product Manager and AI strategy leader with 20+ years driving cross-segment product innovation, large-scale enterprise AI transformations, and $2B+ revenue impact."
+  author = "Siva Darivemula"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
